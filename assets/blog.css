@@ -103,6 +103,9 @@ footer {
         font-size:22px;
         margin-right:5px;
     }
+    header p {
+        color: #666;
+    }
     header img {
         width: 100px;
         height: 100px;
