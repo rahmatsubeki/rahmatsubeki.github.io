@@ -118,9 +118,13 @@ footer {
     .nama{
         background-color: blue;
     }
+    .nama hr{
+        margin-top: -10px;
+    }
     header h1{
         color:white;
         font-size:22px;
+        margin-right:5px;
     }
     header img {
         width: 100px;
