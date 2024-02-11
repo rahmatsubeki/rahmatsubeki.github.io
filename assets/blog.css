@@ -81,3 +81,9 @@ footer {
     background-color: #333;
     color: #fff;
 }
+@media screen (max-width: 390px){
+    .judul{
+        display:flex;
+        font-size:12px
+    }
+}
