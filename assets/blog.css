@@ -82,8 +82,53 @@ footer {
     color: #fff;
 }
 @media screen and (max-width: 390px){
+    body::before {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 50px 50px 0 0;
+        border-color: #3498db transparent transparent transparent;
+    }
+    body::after {
+        content: '';
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 0 0 50px 50px;
+        border-color: transparent transparent #f5f5dc transparent;
+    }
+
     .judul{
         display:flex;
         font-size:12px
+    }
+    .judul img{
+        background-color: blue;
+        border-radius: 50%;
+        height: 110px;
+        width: 110px;
+    }
+    .nama{
+        background-color: blue;
+    }
+    header h1{
+        color:white;
+        font-size:22px;
+    }
+    header img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        object-fit: cover;
+        position: absolute;
+        margin-left: -50px;
+        margin-top: 5px;
     }
 }
