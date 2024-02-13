@@ -10,12 +10,12 @@ header h2 {
     color: #333;
 }
 
-header ul {
+.hobi ul {
     list-style: none;
     padding: 0;
 }
 
-header li {
+.hobi li {
     color: #666;
 }
 body {
@@ -30,11 +30,11 @@ header {
     background-color: #f2f2f2;
 }
 
-header h1 {
+.hobi h1 {
     color: #333;
 }
 
-header p {
+.hobi p {
     color: #666;
 }
 
