@@ -20,5 +20,9 @@ document.querySelectorAll('#openProjectBtn').forEach(function (btn) {
 });
 
 
+function sendEmail() {
+    const emailAddress = 'maharaniberlian11@gmail.com';
+    window.open(`mailto:${emailAddress}`, '_blank');
+}
 
 
