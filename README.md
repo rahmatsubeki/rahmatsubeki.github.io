@@ -6,10 +6,6 @@ Selamat datang di halaman GitHub saya! 👋 Saya rahmat subeki, pengajar. Di sin
 
 Saya seorang [pengajar seni]. Saya tertarik pada [Web Development, musik dan tari].
 
-## Proyek Utama
-
-Berikut adalah beberapa proyek menarik yang mungkin Anda temukan di halaman ini:
-
 ## Hubungi Saya
 
 Anda dapat menghubungi saya melalui:
