@@ -125,11 +125,12 @@ footer {
     display: block;
     height: 20px;
     background-color: #3498db; 
-    margin-bottom: 5px; 
+    margin-bottom: 5px;
+      border-radius:20px;
   }
 
   .bahasa span:nth-child(1) {
-    width: 100%; 
+    width: 50%; 
   }
 
   .bahasa span:nth-child(2) {
@@ -137,7 +138,7 @@ footer {
   }
 
   .bahasa span:nth-child(3) {
-    width: 50%;
+    width: 100%;
   }
 
 
